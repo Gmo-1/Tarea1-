@@ -61,11 +61,11 @@ Desde terminal (CMD o Git Bash):
 - Java JDK 8 o superior
 - VS Code
 
-## 👤 Autor
+## Autor
 
 Guillermo Diaz
 Isidora Vargas Arellano
 github.com/Gmo-1 
 github.com/Isidora-Arellano 
 Tarea para la asignatura de Paradigmas de Programación  
-Ingeniería en Informática UNAB 💻
+Ingeniería en Informática UNAB 
