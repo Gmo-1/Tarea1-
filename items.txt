@@ -1,0 +1,2 @@
+1|OPCION_MULTIPLE|RECORDAR|30|¿Cuál es la salida de System.out.println("Hola")?|Hola|Hola;Adiós;Error;Nada
+2|VERDADERO_FALSO|ENTENDER|45|Java es un lenguaje compilado|Verdadero|Verdadero;Falso
